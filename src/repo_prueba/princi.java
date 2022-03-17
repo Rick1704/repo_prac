@@ -11,11 +11,11 @@ public class princi {
 		String edad;
 		int cadena;
 
-		System.out.println("1º modificación");
+		System.out.println("1Âº modificaciÃ³n");
 		edad = bufer.readLine();
 		cadena = Integer.parseInt(edad);
 		System.out.println(cadena);
-
+		System.out.println();
 	}
 
 }
