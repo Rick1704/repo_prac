@@ -16,6 +16,7 @@ public class princi {
 		cadena = Integer.parseInt(edad);
 		System.out.println(cadena);
 		System.out.println();
+		System.out.println();
 	}
 
 }
